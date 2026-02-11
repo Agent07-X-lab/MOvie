@@ -37,7 +37,7 @@ A modern, responsive movie database web application with a dark cinematic aesthe
 
 1. Navigate to the project directory:
 ```bash
-cd Amlan/cinesearch
+cd File/cinesearch
 ```
 
 2. Install dependencies (if not already installed):
